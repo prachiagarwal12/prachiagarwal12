@@ -1,7 +1,7 @@
 ### Hi, I'm Prachi 👋:computer:
 <img src="https://user-images.githubusercontent.com/49331074/92494526-70439880-f213-11ea-8141-bc3196a09d04.jpeg" width="500" height="500">
 <p>
-An independent and anspiring engineer with lots of new ideas which can help the company to grow.
+An independent and anspiring engineer with lots of new ideas which can help the company to grow.<br>
 I am a self-motivated student who loves coding and has efficient multi-tasking skill.
 </p>
 <!--
