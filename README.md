@@ -8,9 +8,9 @@ I am always curious to learn something new.
 
 <ul>
   <p><li> 🔭 I’m currently working on webcam motion detection project</li></p>
-  <li>🌱 I’m currently learning about django</li>
-  <li>👯 I’m looking to collaborate on any technical project</li>
-  <li>📫 <em>How to reach me:</em> contact me directly on my mail.</li>
+  <p><li>🌱 I’m currently learning about django</li></p>
+  <p><li>👯 I’m looking to collaborate on any technical project</li></p>
+  <p><li>📫 <em>How to reach me:</em> contact me directly on my mail.</li></p>
  </ul>
 <!--
 **prachiagarwal12/prachiagarwal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
