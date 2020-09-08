@@ -1,5 +1,5 @@
 ### Hi, I'm Prachi 👋:computer:
-<img src="C:/xampp/htdocs/dvwa/images//prachi.jpeg" alt="prachi agarwal" width="200"/>
+![Prachi](Downloads/prachi.jpeg)
 <!--
 **prachiagarwal12/prachiagarwal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
