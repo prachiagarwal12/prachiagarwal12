@@ -7,7 +7,7 @@ I am always curious to learn something new.
 </p>
 
 <ul>
-  <li> 🔭 I’m currently working on webcam motion detection project</li>
+  <p><li> 🔭 I’m currently working on webcam motion detection project</li></p>
   <li>🌱 I’m currently learning about django</li>
   <li>👯 I’m looking to collaborate on any technical project</li>
   <li>📫 <em>How to reach me:</em> contact me directly on my mail.</li>
