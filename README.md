@@ -1,5 +1,6 @@
 ### Hi, I'm Prachi 👋:computer:
-![][https://github.com/[prachiagarwal12]/[prachiagarwal12]/blob/[README.md]/prachi.png?raw=true)
+![prachi](https://user-images.githubusercontent.com/49331074/92494526-70439880-f213-11ea-8141-bc3196a09d04.jpeg)
+
 <!--
 **prachiagarwal12/prachiagarwal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
