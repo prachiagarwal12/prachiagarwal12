@@ -1,5 +1,9 @@
 ### Hi, I'm Prachi 👋:computer:
 <img src="https://user-images.githubusercontent.com/49331074/92494526-70439880-f213-11ea-8141-bc3196a09d04.jpeg" width="500" height="500">
+<p>
+An independent and anspiring engineer with lots of new ideas which can help the company to grow.
+I am a self-motivated student who loves coding and has efficient multi-tasking skill.
+</p>
 <!--
 **prachiagarwal12/prachiagarwal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
